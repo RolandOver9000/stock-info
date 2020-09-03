@@ -6,9 +6,9 @@ Stock Info provides up-to-date informations about the stock you are looking for.
 The informatiom comes from a third party API.
 
 ## What you can exactly do with it?
-  :heavy_check_mark: You can search stocks
-  :heavy_check_mark: You can save stock
-  :heavy_check_mark: You can check the news about your stock
+  :heavy_check_mark: You can search stocks  
+  :heavy_check_mark: You can save stock  
+  :heavy_check_mark: You can check the news about your stock  
   
 ## Some planned features:
   - Show statistics about the prices
